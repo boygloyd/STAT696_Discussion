@@ -1,0 +1,23 @@
+---
+title: "STAT696 Discussion"
+author: "Andrew Bates, Josh Gloyd"
+header-includes:
+  - \usepackage{themes/beamertheme696}
+output: beamer_presentation
+---
+
+<!-- slide 2 -->
+
+## Title 2
+
+
+
+<!-- slide 3 -->
+
+## Title 3
+
+
+
+<!-- slide 4 -->
+
+## Title 4
