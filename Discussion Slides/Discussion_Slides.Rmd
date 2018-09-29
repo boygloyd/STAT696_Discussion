@@ -8,16 +8,20 @@ output: beamer_presentation
 
 <!-- slide 2 -->
 
-## Title 2
+## An Example of How to Display Data Badly
 
 
 
 <!-- slide 3 -->
 
-## Title 3
+## Discussion Points
+
+> - Actually display the data
+> - Reduce "Chart Junk"
+> - Don't be deceptive
 
 
 
 <!-- slide 4 -->
 
-## Title 4
+## An Example of How to Display Data Well
