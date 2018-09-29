@@ -1,0 +1,11 @@
+---
+title:  |
+  | Handout For How to Display Data Badly by H. Wainer
+  | Stat 696: Statistical Communication in Data Science
+author: "Andrew Bates, Josh Gloyd"
+output: pdf_document
+---
+
+
+
+
