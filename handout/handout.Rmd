@@ -10,7 +10,7 @@ output: pdf_document
 
 ### Rules for Displaying Data Badly
 
-Here are Wainer's twelve rules for displaying data badly along with the categories they fall under. Note: these tell us how to display data *badly* so these are rules that we should be breaking!
+The aim of good data graphics is to (A) Display Data, (B) Display Data Accurately, and (C) Display Data Clearly. Here are Wainer's twelve rules for displaying data badly along with the categories they fall under. Note: These rules tell us how to display data *badly* so these are rules that we should be breaking!
 
 - **Showing Data**
     1. Show as Few Data as Possible
