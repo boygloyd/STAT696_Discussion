@@ -8,7 +8,7 @@ output: beamer_presentation
 
 <!-- slide 2 -->
 
-## An Example of How to Display Data Badly
+## How to Display Data Badly
 
 
 
@@ -24,4 +24,4 @@ output: beamer_presentation
 
 <!-- slide 4 -->
 
-## An Example of How to Display Data Well
+## How to Display Data Well
