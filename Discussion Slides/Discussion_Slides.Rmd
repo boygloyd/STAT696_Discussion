@@ -41,5 +41,7 @@ grid.raster(img_good)
 
 ## References
 
+- Wainer, Howard. *How to Display Data Badly*. The American Statistician Vol. 38, No. 2, (1984), pp. 137-147
 
+- Asher, Jeff. *A Rise in Murder? Let's Talk About the Weather*. New York Times Online, Sep. 21, 2018.
 
