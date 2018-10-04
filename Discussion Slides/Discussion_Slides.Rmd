@@ -12,7 +12,7 @@ output: beamer_presentation
 ```{r, fig.height=3, echo=FALSE}
 library(png)
 library(grid)
-img_bad = readPNG("/Users/joshua_331/GitTemp/STAT696_Discussion/Discussion Slides/images/bad_plot.png")
+img_bad = readPNG("images/bad_plot.png")
 grid.raster(img_bad)
 ```
 
@@ -33,7 +33,7 @@ grid.raster(img_bad)
 ## How to Display Data Well
 
 ```{r, fig.height=3, echo=FALSE}
-img_good = readPNG("/Users/joshua_331/GitTemp/STAT696_Discussion/Discussion Slides/images/good_plot.png")
+img_good = readPNG("images/good_plot.png")
 grid.raster(img_good)
 ```
 
