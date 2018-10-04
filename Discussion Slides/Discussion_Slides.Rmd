@@ -1,5 +1,6 @@
 ---
-title: "STAT696 Discussion"
+title: "How to Display Data Badly"
+subtitle: "A Stat 696 Discussion"
 author: "Andrew Bates, Josh Gloyd"
 header-includes:
   - \usepackage{themes/beamertheme696}
